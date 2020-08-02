@@ -1,0 +1,136 @@
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+color: #40514E;
+}
+
+h1 {
+  width: 15%;
+  margin: 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.625em;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Merriweather', sans-serif;
+  font-size: 90px;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 200px;
+}
+
+.DIGITALMARKETINGCONSULTANT {
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+.web {
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 250px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 350px;
+  top: 75px;
+}
+
+.profile1 {
+  border-radius: 50%;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto 100px auto;
+}
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  font-family: Montserrat,serif;
+  text-decoration: none;
+}
+a:hover{
+  color: black;
+}
+.copyright{
+  color:  black;
+  padding: 20px;
+  font-size: 0.7rem;
+
+}
+
+.A {
+  font-weight: normal;
+padding-top: 20px 0;
+}
+.B{
+  line-height: 2;
+}
+.info{
+  width: 50%;
+  margin: auto;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1;
+}
+.skill-row1{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: justify;
+  line-height: 1;
+
+}
+.LO{
+  padding-left: 200px;
+}
+.Coding{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.Coding1{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.middle-container{
+  margin: 100px auto;
+}
+.Contact-memessage{
+  width: 30%;
+  margin: 60px auto 60px;
+}
+.button {
+  background-color: #11cdd4;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+}
+.bottom-container{
+  background-color: #11cdd4;
+  padding: 50px 0 20px;
+}
